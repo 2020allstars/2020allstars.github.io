@@ -1,12 +1,18 @@
 ---
 layout: default
 ---
-
+<script>
+  audiojs.events.ready(function() {
+    var as = audiojs.createAll();
+  });
+</script>
 <div class="post">
   <h1 class="post-title">{{ page.title }}</h1>
   <span class="post-date">{{ page.date | date_to_string }}</span>
   {{ content }}
   {% if page.link %}
+  <br />
+  <audio src="{{ page.link }}" preload="auto" />
   <br />
   <span class="post-download"><a href="{{ site.itunes.url }}">Subscribe on iTunes</a> | <a href="{{ site.url | append: site.podcastext }}">Subscribe with RSS</a> | <a href="{{ page.link }}">Download Episode</a></span>
   {% endif %}
