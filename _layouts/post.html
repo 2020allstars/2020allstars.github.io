@@ -12,7 +12,10 @@ layout: default
   {{ content }}
   {% if page.link %}
   <br />
-  <audio src="{{ page.link }}" preload="auto" />
+  <audio preload="auto">
+    <source src="{{ page.link }}" />
+    Your browser does not support audio
+  </audio>
   <br />
   <span class="post-download"><a href="{{ site.itunes.url }}">Subscribe on iTunes</a> | <a href="{{ site.url | append: site.podcastext }}">Subscribe with RSS</a> | <a href="{{ page.link }}">Download Episode</a></span>
   {% endif %}
