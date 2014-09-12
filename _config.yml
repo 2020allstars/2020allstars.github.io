@@ -1,6 +1,6 @@
 # Dependencies
 markdown:         redcarpet
-pygments:         true
+highlighter:      pygments
 
 # Permalinks
 permalink:        pretty
@@ -21,6 +21,10 @@ itunes:
   image:            https://dl.dropboxusercontent.com/u/89720649/2020allstars.jpg
   limit:            1000
   url:              https://itunes.apple.com/us/podcast/2020-all-stars-podcast/id679001606
+twitter:
+  handle:         '@2020Allstars'
+  url:            'https://twitter.com/2020Allstars'
+
 
 author:
   name:           '2020 Allstars'

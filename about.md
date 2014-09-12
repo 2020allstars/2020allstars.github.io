@@ -4,27 +4,15 @@ title: About
 ---
 
 <p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
+  You want to know about us, eh?
 </p>
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+The origins of the 2020 Allstars is simple.  We used to talk on the phone for hours about our fantasy baseball team.  Occasionally, we'd feel like we said something useful and wish we'd recorded it for our own sakes so we could tell everyone else how brilliant we were.  So what did we do?  We recorded our calls.  Voilá!  The 2020 Allstars was born.
 
-There are currently two themes built on Poole:
+We try to focus on deep league names and especially minor leaguers that won't come up for a while.  It doesn't mean that we ignore all the big names, but it's not our true passions.
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+So where are we?
 
-Learn more and contribute on [GitHub](https://github.com/poole).
-
-## Setup
-
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+Twitter:  [@2020Allstars]({{ site.twitter.url }})
+iTunes:  [2020 Allstars on iTunes]({{ site.itunes.url }})
+Blog:  [2020 Allstars Blog]({{ site.url }})
