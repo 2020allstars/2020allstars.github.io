@@ -30,7 +30,7 @@ layout: nil
   <item>
     <title>{{ post.title }}</title>
     <itunes:author>{{ site.author.name }}</itunes:author>
-    <itunes:subtitle>{{ post.content | xml_escape | truncate: 255 }}</itunes:subtitle>
+    <itunes:subtitle>{{ post.content | truncate: 200 | xml_escape }}</itunes:subtitle>
     <itunes:summary>{{ post.content | xml_escape }}</itunes:summary>
     <itunes:image href="{{ site.itunes.image }}"/>
     <enclosure url="{{ post.link }}" length="{{ post.length }}" type="audio/mp3"/>
