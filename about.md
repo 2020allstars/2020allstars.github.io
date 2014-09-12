@@ -11,8 +11,12 @@ The origins of the 2020 Allstars is simple.  We used to talk on the phone for ho
 
 We try to focus on deep league names and especially minor leaguers that won't come up for a while.  It doesn't mean that we ignore all the big names, but it's not our true passions.
 
-So where are we?
+<p class="message">
+  So where are we?
+</p>
 
 Twitter:  [@2020Allstars]({{ site.twitter.url }})
+
 iTunes:  [2020 Allstars on iTunes]({{ site.itunes.url }})
+
 Blog:  [2020 Allstars Blog]({{ site.url }})
