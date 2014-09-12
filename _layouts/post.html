@@ -8,8 +8,8 @@ layout: default
   {{ content }}
   {% if page.link %}
   <br />
-  <span class="post-download"><a href="{{ site.itunes.url }}">Subscribe on iTunes</a> | <a href="{{ site.url | append: site.url.podcast }}">Subscribe with RSS</a> | <a href="{{ post.link }}">Download Episode</a></span>
-  {% endif }
+  <span class="post-download"><a href="{{ site.itunes.url }}">Subscribe on iTunes</a> | <a href="{{ site.url | append: site.podcastext }}">Subscribe with RSS</a> | <a href="{{ page.link }}">Download Episode</a></span>
+  {% endif %}
 </div>
 
 <div class="related">
