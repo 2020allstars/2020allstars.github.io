@@ -25,26 +25,22 @@ layout: nil
 <itunes:category text="Games &amp; Hobbies">
         <itunes:category text="Hobbies" />
 </itunes:category>
-<itunes:new-feed-url>{{ site.url }}/podcast.xml</itunes:new-feed-url>
   {% for post in site.posts limit: site.itunes.limit %}
   {% if post.link %}
   <item>
     <title>{{ post.title }}</title>
     <itunes:author>{{ site.author.name }}</itunes:author>
-    <itunes:subtitle>{{ post.description | xml_escape | truncate: 255 }}</itunes:subtitle>
-    <itunes:summary>{{ post.description | xml_escape }}</itunes:summary>
+    <itunes:subtitle>{{ post.content | xml_escape | truncate: 255 }}</itunes:subtitle>
+    <itunes:summary>{{ post.content | xml_escape }}</itunes:summary>
     <itunes:image href="{{ site.itunes.image }}"/>
     <enclosure url="{{ post.link }}" length="{{ post.length }}" type="audio/mp3"/>
     <media:content url="{{ post.link }}" fileSize="{{ post.length }}" type="audio/mpeg" />
     <guid>{{ post.link }}</guid>
     <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
     <itunes:keywords>{{ site.itunes.keywords }}</itunes:keywords>
-    {% for tag in post.tags %}
-    <category>{{ tag }}</category>
-    {% endfor %}
+    {% for tag in post.tags %}<category>{{ tag }}</category>{% endfor %}
   </item>
   {% endif %}
   {% endfor %}
-
 </channel>
 </rss>
