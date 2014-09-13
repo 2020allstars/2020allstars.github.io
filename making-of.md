@@ -1,6 +1,6 @@
 ---
 layout: page
-title: MakingOf
+title: "Making Of"
 ---
 
 This is a placeholder for a how-to on what went into making this podcast.
