@@ -7,8 +7,8 @@ layout: nil
 <channel>
 <title>{{ site.title }}</title>
 <link>{{ site.url }}</link>
-<language>en-us</language>
-<copyright>&#xA9; 2013-2014 {{ site.author.crname }}</copyright>
+<language>{{ site.language }}</language>
+<copyright>&#xA9; {{ site.time | date: "%Y" }} {{ site.author.crname }}</copyright>
 <itunes:subtitle>{{ site.tagline }}</itunes:subtitle>
 <itunes:author>{{ site.author.name }}</itunes:author>
 <itunes:keywords>{{ site.itunes.keywords }}</itunes:keywords>
