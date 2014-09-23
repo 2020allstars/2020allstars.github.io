@@ -12,6 +12,7 @@ tagline:          'fantasy baseball from the future'
 description:      "A twisted journey into the heart of fantasy baseball. We're staking our reputations to George Springer and Will Harris. That's all you need to know."
 url:              http://2020allstars.github.io
 podcastext:       '/podcast.xml'
+podcastfeedurl:   'http://feeds.feedburner.com/2020allstars'
 baseurl:          '/'
 paginate:         10
 itunes:
