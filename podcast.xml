@@ -28,7 +28,7 @@ layout: nil
   {% for post in site.posts limit: site.itunes.limit %}
   <item>
     <title>{{ post.title }}</title>
-    <link href="{{ site.url }}{{ post.url }}"/>
+    <link>{{ site.url }}{{ post.url }}</link>
     <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
     <guid>{{ post.link }}</guid>
     <description>{{ post.content | xml_escape }}</description>
