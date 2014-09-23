@@ -30,7 +30,7 @@ layout: nil
     <title>{{ post.title }}</title>
     <link>{{ site.url }}{{ post.url }}</link>
     <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
-    <guid>{{ post.link }}</guid>
+    <guid>{{ site.url }}{{ post.url }}</guid>
     <description>{{ post.content | xml_escape }}</description>
     {% if post.link %}
     <itunes:author>{{ site.author.name }}</itunes:author>
