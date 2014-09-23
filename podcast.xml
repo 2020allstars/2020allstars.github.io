@@ -9,11 +9,11 @@ layout: nil
 <link>{{ site.url }}</link>
 <language>{{ site.language }}</language>
 <copyright>&#xA9; {{ site.time | date: "%Y" }} {{ site.author.crname }}</copyright>
+<description>{{ site.description | xml_escape }}</description>
 <itunes:subtitle>{{ site.tagline }}</itunes:subtitle>
 <itunes:author>{{ site.author.name }}</itunes:author>
 <itunes:keywords>{{ site.itunes.keywords }}</itunes:keywords>
 <itunes:summary>{{ site.description | xml_escape }}</itunes:summary>
-<description>{{ site.description | xml_escape }}</description>
 <itunes:owner>
 	<itunes:name>{{ site.author.name }}</itunes:name>
 	<itunes:email>{{ site.author.email }}</itunes:email>
@@ -26,21 +26,24 @@ layout: nil
         <itunes:category text="Hobbies" />
 </itunes:category>
   {% for post in site.posts limit: site.itunes.limit %}
-  {% if post.link %}
   <item>
     <title>{{ post.title }}</title>
+    <link href="{{ site.url }}{{ post.url }}"/>
+    <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
+    <guid>{{ post.link }}</guid>
+    <description>{{ post.content | xml_escape }}</description>
+    {% if post.link %}
     <itunes:author>{{ site.author.name }}</itunes:author>
     <itunes:subtitle>{{ post.content | truncate: 200 | xml_escape }}</itunes:subtitle>
     <itunes:summary>{{ post.content | xml_escape }}</itunes:summary>
     <itunes:image href="{{ site.itunes.image }}"/>
     <enclosure url="{{ post.link }}" length="{{ post.length }}" type="audio/mp3"/>
     <media:content url="{{ post.link }}" fileSize="{{ post.length }}" type="audio/mpeg" />
-    <guid>{{ post.link }}</guid>
-    <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
     <itunes:keywords>{{ site.itunes.keywords }}</itunes:keywords>
     {% for tag in post.tags %}<category>{{ tag }}</category>{% endfor %}
+    {% endif %}
+
   </item>
-  {% endif %}
   {% endfor %}
 </channel>
 </rss>
