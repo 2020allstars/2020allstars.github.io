@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2020 Allstars - Season 3 Episode 01
+title: 2020 Allstars - Season 3 Episode 2
 date: '2015-02-23T12:00:00+00:00'
 tags:
 - 2020 Allstars
