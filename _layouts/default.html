@@ -31,7 +31,9 @@
         var toggle = document.querySelector('.sidebar-toggle');
         var sidebar = document.querySelector('#sidebar');
         var checkbox = document.querySelector('#sidebar-checkbox');
-	var as = audiojs.createAll();
+        audiojs.events.ready(function() {
+          var as = audiojs.createAll();
+        });
 
         document.addEventListener('click', function(e) {
           var target = e.target;
