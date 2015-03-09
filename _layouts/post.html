@@ -9,6 +9,7 @@ layout: default
   {% if page.link %}
   <br />
   <audio preload="auto">
+    {% if page.opus %}<source src="{{ page.opus }}" />{% endif %}  
     <source src="{{ page.link }}" />
     Your browser does not support audio
   </audio>
