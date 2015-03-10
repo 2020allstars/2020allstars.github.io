@@ -8,8 +8,15 @@ layout: default
   {{ content }}
   {% if page.link %}
   <br />
-  <audio controls="true">
-{% if page.opus %}    <source src="{{ page.opus }}" />{% endif %}  
+  <audio controls="true" id="myaudio">{% if page.opus %}
+  <script type="text/javascript">
+    var audioTag = document.createElement('audio');
+    var tmp = !!(audioTag.canPlayType && audioTag.canPlayType('audio/ogg;codecs="opus"').replace(/no/, ''));
+    if(tmp) {
+      document.write('<source src="{{ page.opus }}" type=\'audio/ogg;codecs="opus"\' />');
+      console.log("Opus Works: " + tmp);
+    }
+  </script>{% endif %}  
     <source src="{{ page.link }}" />
     Your browser does not support audio
   </audio>
