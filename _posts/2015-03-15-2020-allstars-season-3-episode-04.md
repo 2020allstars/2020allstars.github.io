@@ -39,3 +39,4 @@ Finally, we wander around aimless for a couple minutes before deciding that we s
 
 Season {{ page.season }} Episode {{ page.episode }} ({{ page.runtime }})
 
+Bonus: [Alton Brown's Paella Recipe](http://www.foodnetwork.com/recipes/alton-brown/paella-recipe.html)

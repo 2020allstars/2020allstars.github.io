@@ -17,6 +17,10 @@ Software & Services:
 
 [Opus Codec](https://www.opus-codec.org/)
 
+[Bitly](https://bitly.com)
+
+[Cloud9](https://c9.io)
+
 References:
 
 [Adam Wilcox - Podcasting with Jekyll](http://www.adamwilcox.org/2013/01/17/from-the-pub/)
