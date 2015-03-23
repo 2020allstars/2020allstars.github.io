@@ -7,7 +7,7 @@ This is a placeholder for a how-to on what went into making this podcast.
 
 Software & Services:
 
-[Skype](http://www.skype.com)
+[Skype](http://www.skype.com)  & [Skype Call Recorder (for Linux)](http://atdot.ch/scr/)
 
 [Audacity](http://audacity.sourceforge.net/)
 
@@ -35,5 +35,5 @@ In Audacity, first I use noise removal at the default settings to remove any his
 
 3-9-2015: We're now encoding the podcast with the Opus Codec at 32 kbps for the inline audio player on the post pages.  Opus is really only supported in modern browsers, but the 32 kbps opus file sounds similar to the 100 kbps mp3.  So if you're on a bad connection, the inline player might be your best bet.
 
-
+3-20-2015:  The Skype Call Recorder for linux did not compile correctly for me at first (followed [this](http://atdot.ch/scr/compiling/)).  My problem was that I had to install all the "dev" packages for the requirements (i.e. sudo apt-get install libid3-dev) before the program would build properly.  I am running Ubuntu 14.04.
 
