@@ -1,3 +1,6 @@
+gems:
+  - jekyll-sitemap
+
 # Dependencies
 markdown:         redcarpet
 highlighter:      pygments
@@ -22,12 +25,15 @@ itunes:
   category3:        ''
   image:            https://dl.dropboxusercontent.com/u/89720649/2020allstars.jpg
   limit:            1000
-  url:              https://itunes.apple.com/us/podcast/2020-all-stars-podcast/id679001606
+  url:              itpc://itunes.apple.com/us/podcast/2020-all-stars-podcast/id679001606
 twitter:
   handle:         '@2020AllStars'
   url:            'https://twitter.com/2020allstars'
 instagram:
   handle:         '2020AllStars'
+facebook:
+  handle:         '2020AllStars'
+  url:            
 
 author:
   name:           '2020 All-Stars'
@@ -40,3 +46,5 @@ version:          1.0.0
 
 github:
   repo:           https://github.com/2020allstars/2020allstars.github.io
+  
+  
