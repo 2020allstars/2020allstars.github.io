@@ -10,6 +10,7 @@
 
   <nav class="sidebar-nav">
     <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="/">Home</a>
+    <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="itpc://itunes.apple.com/us/podcast/2020-all-stars/id679001606?mt=2&uo=4" target="_blank">Home</a>
     {% comment %}
       The code below dynamically generates a sidebar nav of pages with
       `layout: page` in the front-matter. See readme for usage.
@@ -23,8 +24,8 @@
     <a href="{{ site.twitter.url }}"><img src="{{ site.baseurl }}public/images/bird_blue_16.png"></a>
   </div>
   <div class="sidebar-item">
-    <p>
-      &copy; {{ site.time | date: '%Y' }}. All rights reserved.
+    <p>{% capture currentYear %}{{ site.time | date: '%Y' }}{% endcapture %}
+      &copy; {% unless currentYear == '2013' %}2013 - {% endunless %}{{ currentYear }}  
     </p>
   </div>
 </div>
