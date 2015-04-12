@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Season 3 Episode 7 - 2020 Allstars
+title: 'Season 3 Episode 7 - 2020 All-Stars'
 season: 3
 episode: 7
 date: '2015-04-11T12:00:00+00:00'
