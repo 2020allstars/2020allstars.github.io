@@ -32,11 +32,11 @@ This week, we stray from our normal banter about food to talk about gay marriage
 
 What?  You want baseball news?  Maybe you don't after you hear what we have to tell you... Giancarlo Stanton went down with a hand injury that he sustained while swinging.  We discuss whether he deserves the dreaded "injury plagued" tag.  He'll be a first round guy, because you just can't find Stanton power outside of Stanton.  But is he the new Tulo?  We are a bit worried about that.  The most interesting name that we throw out there is Randal Grichuk.  He's got some lightning-in-a-bottle potential.  
 
-Speaking of stud outfielders, we discuss what is the value of Yasiel Puig and what is the production.  In my opinion, Puig's value far outstrips his production.  He could be a sell high guy now that he is back in the majors.  We throw out some names that you might be able to get in a trade involving Puig.  Joc Pederson might be a guy one could get for Puig.  Jacoby Ellsbury, Encarnacion, Bautista?  It seems like anyone that you could get for Puig has question marks, but still could be very useful.  
+Speaking of stud outfielders, we discuss what is the value of Yasiel Puig and what is the production.  In my opinion, Puig's value far outstrips his production.  He could be a sell high guy now that he is back in the majors.  We throw out some names that you might be able to get in a trade involving Puig.  Joc Pederson might be a guy one could get for Puig.  Jacoby Ellsbury, Encarnacion, Bautista?  It seems like anyone that you could get for Puig has question marks, but the gamble is what makes fantasy great.  
 
-Another big injury is the Anthony Rendon going back on the DL.  Second base has been really interesting this year.  Rendon, Cano, and Kinsler have all disappointed this year.  We discuss what to do with those guys and if you want any part of them as buy-low candidates.  Bottomline, GET JUSTIN TURNER!  
+Another big injury is Anthony Rendon going back on the DL.  Second base has been really interesting/disappointing this year.  Rendon, Cano, and Kinsler have all disappointed this year, but Kipnis, Addison Russell, and Justin Turner have surprised to the upside.  We discuss what to do with those guys and if you want any part of them as buy-low candidates.  Bottomline, GET JUSTIN TURNER!  
 
-Steven Matz?  Steven Matz?  Anyone?  We like his stuff, but wonder if he'll get full-time innings to show off his stuff.
+Steven Matz?  Steven Matz?  Anyone?  We like his stuff, but wonder if he'll get full-time innings this season.
 
 As always, check us out on Twitter [@2020AllStars](https://www.twitter.com/2020allstars) and iTunes.  
 
