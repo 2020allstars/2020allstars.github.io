@@ -10,3 +10,7 @@
   vertical-align: bottom;
   margin: 0;
 }
+
+.wrap {
+  background-image: url("/public/images/crossword-bk.png");
+}
