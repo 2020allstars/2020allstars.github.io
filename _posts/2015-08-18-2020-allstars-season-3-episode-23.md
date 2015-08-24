@@ -3,7 +3,7 @@ layout: post
 title: 'Season 3 Episode 23 - 2020 All-Stars'
 season: 3
 episode: 23
-date: '2015-08-10T12:00:00+00:00'
+date: '2015-08-18T12:00:00+00:00'
 tags:
 - Fantasy Baseball
 - MLB
