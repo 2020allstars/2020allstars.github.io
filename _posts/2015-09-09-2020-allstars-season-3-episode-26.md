@@ -33,8 +33,8 @@ tags:
 dogebets:
   - Noah Syndergaard vs. Taijaun Walker (yahoo rank end of season 2016)
 link: https://dl.dropboxusercontent.com/u/89720649/2020allstars-s3e26.mp3
-length: 
-runtime: ''
+length: 21574233
+runtime: '44:56'
 opus: https://dl.dropboxusercontent.com/u/89720649/2020allstars-s3e26.opus
 ---
 We did not watch a lot of baseball this week.  Instead of doing our normal recap, we discuss who are next years breakouts.  We begin with our favorite AJ Pollock.  Todd brilliant pulls Christian Yelich's name out of a hat.  Man, I love that call and wish that I had thought of it.  I actually think Yelich could be the next Dexter Fowler, but Todd throws Aaron Hicks's name out there.  I argue that Hicks doesn't have the OBP to get runs like Fowler.  
