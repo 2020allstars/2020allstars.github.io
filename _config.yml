@@ -34,7 +34,8 @@ instagram:
 facebook:
   handle:         '2020AllStars'
   url:            
-
+googlepodcasts:
+  url:            'https://goo.gl/app/playmusic?ibi=com.google.PlayMusic&isi=691797987&ius=googleplaymusic&link=https://play.google.com/music/m/Iowpsefg4x5hdoqeab7rgaqe22e?t%3D2020_All-Stars'
 author:
   name:           '2020 All-Stars'
   url:            https://twitter.com/2020allstars
