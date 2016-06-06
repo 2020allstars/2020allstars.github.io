@@ -15,8 +15,8 @@ tags:
 - yan gomes
 - nick franklin
 tumblr_url: http://2020allstars.tumblr.com/post/61040770857/2020-all-stars-episode-13
-link: https://dl.dropboxusercontent.com/u/89720649/2020%20All%20Stars%20-%20Episode%2013%20-%2020130911%20-%20Final.mp3
+link: https://archive.org/download/2020AllStarsSeason01/2020%20All%20Stars%20-%20Episode%2013%20-%2020130911%20-%20Final.mp3
 length: 25564346
 ---
-It was a slow week in baseball so we delved into a fictional all-rookie squad.  With an eye on winning right now, but also tips for who to keep if you’re in it for the long haul.
+It was a slow week in baseball so we delved into a fictional all-rookie squad.  With an eye on winning right now, but also tips for who to keep if you’re in it for the long haul.
 Episode 13 (42:40)
