@@ -30,10 +30,10 @@ tags:
 dogebets:
 - Kahnle (o/u 6 saves)
 - Hector Rondon and Jason Motte vs Raphael Soriano and Tommy Hunter (more saves on CHC)
-link: https://dl.dropboxusercontent.com/u/89720649/2020allstars-s3e21.mp3
+link: https://2020allstars.pmia.de/2020allstars-s3e21.mp3
 length: 21690216
 runtime: '45:11'
-opus: https://dl.dropboxusercontent.com/u/89720649/2020allstars-s3e21.opus
+opus: https://2020allstars.pmia.de/2020allstars-s3e21.opus
 ---
 There are times you know you are witnessing magic, like when a pitcher is in the middle of throwing a perfect game.  The ball is dancing around, every pitch hits it's spot, the ball is coming out seemingly a few mph faster with every pitch.  You watch this feat and you can just tell something special is happening.  You're giddy with excitement that you can be a part of it.  
 

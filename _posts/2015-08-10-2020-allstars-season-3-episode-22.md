@@ -10,10 +10,10 @@ tags:
 - deep league
 - 2020 All-Stars
 dogebets:
-link: https://dl.dropboxusercontent.com/u/89720649/2020allstars-s3e22.mp3
+link: https://2020allstars.pmia.de/2020allstars-s3e22.mp3
 length: 22554974
 runtime: '46:59'
-opus: https://dl.dropboxusercontent.com/u/89720649/2020allstars-s3e22.opus
+opus: https://2020allstars.pmia.de/2020allstars-s3e22.opus
 ---
 This week is pretty special.  We're going back in time to check out some of our predictions from our [inaugural episode of Season 3](http://2020allstars.da3.net/2015/02/15/2020-allstars-season-3-episode-01/).  Below are the notes that we are referring to:
 

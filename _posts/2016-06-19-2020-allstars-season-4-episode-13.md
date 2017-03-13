@@ -10,10 +10,10 @@ tags:
   - deep league
   - 2020 All-Stars
 dogebets:
-link: https://dl.dropboxusercontent.com/u/89720649/2020allstars-s4e13.mp3
+link: https://2020allstars.pmia.de/2020allstars-s4e13.mp3
 length: 
 runtime: ''
-opus: https://dl.dropboxusercontent.com/u/89720649/2020allstars-s4e13.opus
+opus: https://2020allstars.pmia.de/2020allstars-s4e13.opus
 ---
 We had a special live episode today.  More of the usual.  Prospects, fantasy zombies, closerpocalypse.  Thanks for listening and apologies for the late post.  
 

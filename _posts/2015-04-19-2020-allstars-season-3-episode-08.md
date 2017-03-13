@@ -17,10 +17,10 @@ tags:
 - Roberto Osuna
 - Joel Peralta
 dogebets:
-link: https://dl.dropboxusercontent.com/u/89720649/2020allstars-s3e8.mp3
+link: https://2020allstars.pmia.de/2020allstars-s3e8.mp3
 length: 26483779
 runtime: '55:10'
-opus: https://dl.dropboxusercontent.com/u/89720649/2020allstars-s3e8.opus
+opus: https://2020allstars.pmia.de/2020allstars-s3e8.opus
 ---
 On the 8th day the Lord created Kris Bryant and he cometh with great fury to The Show!  We chat about Bryant and the Cubs in general.  Then we get into the Closerpocalypse.  Next up is injury news and finally prospects.  Hope y'all enjoy this week.
 

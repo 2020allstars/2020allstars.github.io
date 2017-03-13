@@ -11,7 +11,7 @@ tags:
 - Oakland
 - Padres
 - Max Scherzer
-link: https://dl.dropboxusercontent.com/u/89720649/2020%20All%20Stars%20-%2020141225%20-%20Season%202%20Episode%2026%20%2841%29%20-%20Final.mp3
+link: https://2020allstars.pmia.de/2020%20All%20Stars%20-%2020141225%20-%20Season%202%20Episode%2026%20%2841%29%20-%20Final.mp3
 length: 38568455
 ---
 Alright, you waited.  Then you waited some more.  Then?  Well, we finally made a podcast!  But it wasn't what we said it was about because we waited so long.  Instead we discuss the offseason moves and how we predict those will affect things next year.

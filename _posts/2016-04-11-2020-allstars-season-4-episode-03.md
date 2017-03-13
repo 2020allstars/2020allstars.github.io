@@ -29,10 +29,10 @@ tags:
   - Mallex Smith
   - Brock Holt
 dogebets:
-link: https://dl.dropboxusercontent.com/u/89720649/2020allstars-s4e03.mp3
+link: https://2020allstars.pmia.de/2020allstars-s4e03.mp3
 length: 20032446
 runtime: '41:43'
-opus: https://dl.dropboxusercontent.com/u/89720649/2020allstars-s4e03.opus
+opus: https://2020allstars.pmia.de/2020allstars-s4e03.opus
 ---
 Were you interested in hearing about the 80s classic The Goonies?  Well, we went there.  But we needed something positive to talk about and baseball simply wasn't providing that positivity.  We discuss all the injuries.  The big name is Kyle Schwarber.  We discuss who on the Cubs could benefit from that.  In the outfield, we like Colby Rasmus, Nick Markakis, Michael Saunders and Drew Stubbs as possible replacements.  
 

@@ -23,10 +23,10 @@ tags:
 - Adeiny Hechavarria
 - Tim Beckham
 dogebets:
-link: https://dl.dropboxusercontent.com/u/89720649/2020allstars-s3e9.mp3
+link: https://2020allstars.pmia.de/2020allstars-s3e9.mp3
 length: 20581341
 runtime: '42:52'
-opus: https://dl.dropboxusercontent.com/u/89720649/2020allstars-s3e9.opus
+opus: https://2020allstars.pmia.de/2020allstars-s3e9.opus
 ---
 What to do about Adam Wainwright?  In typical 2020 All-Star fashion, we talk about guys that are nowhere near his caliber, but that's what you've come to expect from us.  A change of pace, we discuss old guys that you could replace him with in an impromptu Whack or Back.  Our love affair with former UCLA superstar, Trevor Bauer, bubbles to the surface.  Another big name that we're worried about is Iwakuma.  Without any evidence, we really suspect something more than meets the eye is here.
 

@@ -27,10 +27,10 @@ tags:
   - Drew Pomeranz
 dogebets:
   - Pompey vs Buxton (rest of season 5x5)
-link: https://dl.dropboxusercontent.com/u/89720649/2020allstars-s3e24.mp3
+link: https://2020allstars.pmia.de/2020allstars-s3e24.mp3
 length: 17753877
 runtime: '36:59'
-opus: https://dl.dropboxusercontent.com/u/89720649/2020allstars-s3e24.opus
+opus: https://2020allstars.pmia.de/2020allstars-s3e24.opus
 ---
 In true 2020 All-Star fashion, we have a nice little false start.  We re-begin the podcast with a discussion of Trea Turner.  He doesn't necessarily have a lot of opportunity for playing time, but he's definitely a stashable guy in keeper leagues.  We move onto the Chase Utley trade.  We don't necessarily see a lot of value, but we discuss some of the other guys that you can get.  This leads to more Dodger talk and in particular the team's bullpen situation.  
 

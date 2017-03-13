@@ -24,10 +24,10 @@ tags:
   - Zack Wheeler
   - Marcus Stroman
 dogebets:
-link: https://dl.dropboxusercontent.com/u/89720649/2020allstars-s4e02.mp3
+link: https://2020allstars.pmia.de/2020allstars-s4e02.mp3
 length: 23990071
 runtime: '49:58'
-opus: https://dl.dropboxusercontent.com/u/89720649/2020allstars-s4e02.opus
+opus: https://2020allstars.pmia.de/2020allstars-s4e02.opus
 ---
 Always something new for y'all on the 2020 Allstars.  I (David) was homeless for the month of March.  Instead of scrambling to find a place in Berlin, I decided to travel to Egypt.  So this weeks episode comes to you from Cairo.  As such the audio quality isn't quite up to snuff, but you're probably not here for that anyway.  
 

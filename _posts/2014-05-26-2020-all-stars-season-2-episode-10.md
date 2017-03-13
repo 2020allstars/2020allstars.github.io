@@ -17,7 +17,7 @@ tags:
 - zach britton
 - juan carlos oviedo
 tumblr_url: http://2020allstars.tumblr.com/post/86887413425/2020-all-stars-season-2-episode-10
-link: https://dl.dropboxusercontent.com/u/89720649/2020%20All%20Stars%20-%2020140526%20-%20Season%202%20Episode%2010%20%2825%29%20-%20Final.mp3
+link: https://2020allstars.pmia.de/2020%20All%20Stars%20-%2020140526%20-%20Season%202%20Episode%2010%20%2825%29%20-%20Final.mp3
 length: 33211989
 ---
 Another week, another slew of injuries.  We talk about the major injuries again, some hot starts, and of course, Closerpocalypse 2014.  Perhaps next year the fantasy baseball world should just agree to re-drafting after 2 months?  Teams, real and fantasy, are just getting decimated by injuries this year.

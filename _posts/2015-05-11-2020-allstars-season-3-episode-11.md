@@ -26,10 +26,10 @@ tags:
 dogebets:
 - Bryce Harper (o/u 36 hrs)
 - Joc Pederson vs Kris Bryant (more homers end of the year)
-link: https://dl.dropboxusercontent.com/u/89720649/2020allstars-s3e11.mp3
+link: https://2020allstars.pmia.de/2020allstars-s3e11.mp3
 length: 24976003
 runtime: '52:01'
-opus: https://dl.dropboxusercontent.com/u/89720649/2020allstars-s3e11.opus
+opus: https://2020allstars.pmia.de/2020allstars-s3e11.opus
 ---
 Bryce Harper is living up to the hype.  We briefly discuss his 6 homer week.  The guy is still 23 years old and the sky is the limit.  
 

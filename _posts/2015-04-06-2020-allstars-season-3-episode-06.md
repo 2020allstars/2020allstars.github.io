@@ -23,10 +23,10 @@ tags:
 dogebets:
 - Billy Burns vs. EY Jr (steals, runs, ave)
 - Dan Uggla (o/u 9 homers)
-link: https://dl.dropboxusercontent.com/u/89720649/2020allstars-s3e6.mp3
+link: https://2020allstars.pmia.de/2020allstars-s3e6.mp3
 length: 26529527
 runtime: 55:16
-opus: https://dl.dropboxusercontent.com/u/89720649/2020allstars-s3e6.opus
+opus: https://2020allstars.pmia.de/2020allstars-s3e6.opus
 ---
 We discuss the big Craig Kimbrel trade.  For Kimbrel, this means more opportunities, because the team is better.  On the downside, you have Joaquin Benoit, who loses the closer gig.  Bummer for fantasy owners who have him.  We then discuss the implications to the Braves lineup.  Todd likes Eric Young Jr... EY may not have proven much in the past, but he'll have the opportunity and he's fast.  
 

@@ -14,7 +14,7 @@ tags:
 - leo nunez
 - grant balfour
 tumblr_url: http://2020allstars.tumblr.com/post/89652105700/2020-allstars-season-2-episode-13
-link: https://dl.dropboxusercontent.com/u/89720649/2020%20All%20Stars%20-%2020140622%20-%20Season%202%20Episode%2013%20%2828%29%20-%20Final.mp3
+link: https://2020allstars.pmia.de/2020%20All%20Stars%20-%2020140622%20-%20Season%202%20Episode%2013%20%2828%29%20-%20Final.mp3
 length: 35963485
 ---
 We are back and in true 2020 Allstars fashion, we go all over the place.  But luckily, the week in fantasy baseball was mostly good.  We begin with a discussion of vacation spots along the Adriatic for those looking for a summer getaway.  Next, we discuss Clayton Kershaw’s no-hitter and his status among other pitchers in fantasy baseball.  We move to discussing whether Matt Kemp is “back”.

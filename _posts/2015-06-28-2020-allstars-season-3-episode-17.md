@@ -23,10 +23,10 @@ tags:
 - Anthony Rendon
 - Robinson Cano
 dogebets:
-link: https://dl.dropboxusercontent.com/u/89720649/2020allstars-s3e17.mp3
+link: https://2020allstars.pmia.de/2020allstars-s3e17.mp3
 length: 21863878
 runtime: '45:32'
-opus: https://dl.dropboxusercontent.com/u/89720649/2020allstars-s3e17.opus
+opus: https://2020allstars.pmia.de/2020allstars-s3e17.opus
 ---
 This week, we stray from our normal banter about food to talk about gay marriage/LGBT rights.  This past Friday, the Supreme Court decided that states could no longer ban or not recognize gay marriages.  Huge win for equal rights in America!  We even dabble into German gay marriage politics for the briefest of moments.  Although the laws here haven't changed yet, there was a lot of positive energy from everyone this weekend, so hopefully they'll follow the US's lead soon enough.  But not to disappoint, we quickly moved the conversation onto food.  Todd and I have discussed a food podcast in the offseason where each of us has to make a local specialty of where the other is living.  The dish that Todd couldn't pronounce is Sülze and my challenge would be to make chili cheese fries complete with cheddar cheese.  
 

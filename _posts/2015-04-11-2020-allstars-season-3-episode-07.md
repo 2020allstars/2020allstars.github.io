@@ -32,10 +32,10 @@ dogebets:
 - Junichi Tazawa (o/u 15 saves)
 - David Wright (o/u 20 homers)
 - Mark Canha (o/u 500 ABs)
-link: https://dl.dropboxusercontent.com/u/89720649/2020allstars-s3e7.mp3
+link: https://2020allstars.pmia.de/2020allstars-s3e7.mp3
 length: 30698043
 runtime: '1:03:57'
-opus: https://dl.dropboxusercontent.com/u/89720649/2020allstars-s3e7.opus
+opus: https://2020allstars.pmia.de/2020allstars-s3e7.opus
 ---
 There was a lot of baseball to discuss.  I promise you that we had sketched out a plan to cover it all, but like a young buck getting his first taste of big league pitching, we panicked and threw that out the window.  Not to say the quality of the podcast is sub-par, but we wandered, Henry David Thoreau wandered.  It's certainly enjoyable though.  
 

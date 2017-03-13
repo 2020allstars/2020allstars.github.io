@@ -29,10 +29,10 @@ tags:
 - Michael Conforto
 - Trevor Story
 dogebets:
-link: https://dl.dropboxusercontent.com/u/89720649/2020allstars-s3e16.mp3
+link: https://2020allstars.pmia.de/2020allstars-s3e16.mp3
 length: 24753202
 runtime: '51:34'
-opus: https://dl.dropboxusercontent.com/u/89720649/2020allstars-s3e16.opus
+opus: https://2020allstars.pmia.de/2020allstars-s3e16.opus
 ---
 We start off our chat about the Sunday holidays.  Fête de la Musique in Germany and Father's Day in the US.  The big news of the week was Max Scherzer, so we start off our discussion with Justin Turner.  What is his value?  What can you get for him in a trade?  We think you'll be surprised at the names that we throw out there.  
 

@@ -14,7 +14,7 @@ tags:
   - Andrew Miller
   - David Price
 dogebets:
-link: https://dl.dropboxusercontent.com/u/89720649/2020allstars-s4e16.mp3
+link: https://2020allstars.pmia.de/2020allstars-s4e16.mp3
 length: 33814656
 runtime: '35:13'
 opus: 

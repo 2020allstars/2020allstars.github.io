@@ -17,10 +17,10 @@ tags:
 dogebets:
 - Robert Refsnyder (o/u 6 hrs rest of the way)
 - Better 5x5 at the end of the year (Bryant vs Sano)
-link: https://dl.dropboxusercontent.com/u/89720649/2020allstars-s3e18.mp3
+link: https://2020allstars.pmia.de/2020allstars-s3e18.mp3
 length: 7439062
 runtime: '15:29'
-opus: https://dl.dropboxusercontent.com/u/89720649/2020allstars-s3e18.opus
+opus: https://2020allstars.pmia.de/2020allstars-s3e18.opus
 ---
 It's been two weeks and we have a mini-pod for you.  We basically run through the injuries of the past two weeks and lament about the Greek Crisis.  Miggy, David Wright, Dee Gordon, Strasburg, etc, etc.  That wanders into a little bit of closer chatter and old guy talk.  There is a rookie of note that got the call to the bigs so we discuss... Robert Refsnyder! and Miguel Sano's future prospect.  Will Sano be better than our man-crush, Kris Bryant?  The answer might surprise you.
 

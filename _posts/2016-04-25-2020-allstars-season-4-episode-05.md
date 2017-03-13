@@ -29,10 +29,10 @@ tags:
   - Dexter Fowler
   - Colby Rasmus
 dogebets:
-link: https://dl.dropboxusercontent.com/u/89720649/2020allstars-s4e05.mp3
+link: https://2020allstars.pmia.de/2020allstars-s4e05.mp3
 length: 21997032
 runtime: '45:49'
-opus: https://dl.dropboxusercontent.com/u/89720649/2020allstars-s4e05.opus
+opus: https://2020allstars.pmia.de/2020allstars-s4e05.opus
 ---
 Jake Arrietta, the #1 overall pitchers?  Noah Syndergaard, next big thing?  We start this fireside chat with a discussion of the big name pitchers.  Kenta Maeda also works his way into the discussion.  Todd watches the Dodgers a lot and likes what he sees, but cautions our listeners about going all-in on him.  Definitely a useful player, but he won't be a sub-1 ERA guy all season.  
 

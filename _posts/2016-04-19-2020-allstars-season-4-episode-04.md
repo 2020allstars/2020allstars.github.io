@@ -39,10 +39,10 @@ tags:
   - Christian Vazquez
   - Nate Wolters
 dogebets:
-link: https://dl.dropboxusercontent.com/u/89720649/2020allstars-s4e04.mp3
+link: https://2020allstars.pmia.de/2020allstars-s4e04.mp3
 length: 24385042
 runtime: '50:48'
-opus: https://dl.dropboxusercontent.com/u/89720649/2020allstars-s4e04.opus
+opus: https://2020allstars.pmia.de/2020allstars-s4e04.opus
 ---
 Public Service Announcement:  Our internet connection was crap.  We had a bunch of drop outs and ended up recording this episode in two parts.  
 

@@ -17,7 +17,7 @@ tags:
 - vlad guerrero
 - adam jones
 tumblr_url: http://2020allstars.tumblr.com/post/95375013345/2020-allstars-season-2-episode-21
-link: https://dl.dropboxusercontent.com/u/89720649/2020%20All%20Stars%20-%2020140821%20-%20Season%202%20Episode%2021%20%2836%29%20-%20Final.mp3
+link: https://2020allstars.pmia.de/2020%20All%20Stars%20-%2020140821%20-%20Season%202%20Episode%2021%20%2836%29%20-%20Final.mp3
 length: 31373949
 ---
 Well, the reprieve is over.  Closerpocalypse is BACK!  We saw a lot of shaky performances this week and a lot of potential injuries in the backend of bullpens this week.  We go through all of them and give you our thoughts on who we like going forward.  Also for those people playing in leagues that give you points for incredible facial hair, we have some insights for you as well.

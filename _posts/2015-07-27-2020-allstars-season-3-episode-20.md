@@ -26,10 +26,10 @@ tags:
 - ARod
 - Michael Conforto
 dogebets:
-link: https://dl.dropboxusercontent.com/u/89720649/2020allstars-s3e20.mp3
+link: https://2020allstars.pmia.de/2020allstars-s3e20.mp3
 length: 16687008
 runtime: '34:45'
-opus: https://dl.dropboxusercontent.com/u/89720649/2020allstars-s3e20.opus
+opus: https://2020allstars.pmia.de/2020allstars-s3e20.opus
 ---
 Trade season is upon us.  We delve into the moves that have already been made and also discuss some injuries this week.  
 

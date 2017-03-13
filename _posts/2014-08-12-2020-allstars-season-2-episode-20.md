@@ -13,7 +13,7 @@ tags:
 - freekrisbryant
 - freejorgesoler
 tumblr_url: http://2020allstars.tumblr.com/post/94509712040/2020-allstars-season-2-episode-20
-link: https://dl.dropboxusercontent.com/u/89720649/2020%20All%20Stars%20-%2020140811%20-%20Season%202%20Episode%2020%20%2835%29%20-%20Final.mp3
+link: https://2020allstars.pmia.de/2020%20All%20Stars%20-%2020140811%20-%20Season%202%20Episode%2020%20%2835%29%20-%20Final.mp3
 length: 34904314
 ---
 This week we have a ton of news.  We start off with some chatter about future 2020 allstars.  The big name is Javy Baez.  Could he get 10 more homers the rest of the way?  Could he strikeout 30% of the time while doing so?  We discuss these questions and all the other Cubs prospects.

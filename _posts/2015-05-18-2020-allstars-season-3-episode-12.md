@@ -19,10 +19,10 @@ tags:
 - Houston Astros
 dogebets:
 - Jake McGee (over 12 saves)
-link: https://dl.dropboxusercontent.com/u/89720649/2020allstars-s3e12.mp3
+link: https://2020allstars.pmia.de/2020allstars-s3e12.mp3
 length: 17528987
 runtime: '36:31'
-opus: https://dl.dropboxusercontent.com/u/89720649/2020allstars-s3e12.opus
+opus: https://2020allstars.pmia.de/2020allstars-s3e12.opus
 ---
 So Corey Kluber might be good.  We chat about his game for a moment and then discuss his place among the pantheon of other elite pitchers.  This leads into some concerns we have about David Price.  We discuss some potential fantasy trades with him and what we think of his value.  Continuing a pitcher discussion, we move to a former 2020 All-Star favorite, Yordano Ventura.  Is he better than some "Whack or Back"-type guys?  
 

@@ -16,10 +16,10 @@ tags:
 - Corey Seager
 - Andre Ethier
 dogebets:
-link: https://dl.dropboxusercontent.com/u/89720649/2020allstars-s3e15.mp3
+link: https://2020allstars.pmia.de/2020allstars-s3e15.mp3
 length: 18200229
 runtime: '37:54'
-opus: https://dl.dropboxusercontent.com/u/89720649/2020allstars-s3e15.opus
+opus: https://2020allstars.pmia.de/2020allstars-s3e15.opus
 ---
 Ok guys, this is becoming a food podcast.  For the first three minutes, we discuss making french fries, pommes frites, whatever you call them, from scratch and then turning those into the Quebecois specialty, Poutine.  
 

@@ -10,10 +10,10 @@ tags:
   - deep league
   - 2020 All-Stars
 dogebets:
-link: https://dl.dropboxusercontent.com/u/89720649/2020allstars-s4e07.mp3
+link: https://2020allstars.pmia.de/2020allstars-s4e07.mp3
 length: 18840824
 runtime: '39:15'
-opus: https://dl.dropboxusercontent.com/u/89720649/2020allstars-s4e07.opus
+opus: https://2020allstars.pmia.de/2020allstars-s4e07.opus
 ---
 Mother's Day podcast.  Like the pod, I'll make this summary quick hitting.
 

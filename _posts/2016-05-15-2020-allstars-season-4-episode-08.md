@@ -25,10 +25,10 @@ tags:
   - Andrew Miller
   - Delan Betances
 dogebets:
-link: https://dl.dropboxusercontent.com/u/89720649/2020allstars-s4e08.mp3
+link: https://2020allstars.pmia.de/2020allstars-s4e08.mp3
 length: 18705405
 runtime: '38:58'
-opus: https://dl.dropboxusercontent.com/u/89720649/2020allstars-s4e08.opus
+opus: https://2020allstars.pmia.de/2020allstars-s4e08.opus
 ---
 Well, I got hit by a car but no DL stint for me!  We have a quick hitter here.  We blow through the weeks news.  The #FreeTreaTurner talk is heating up and so is #BuxtonWatch2016.  
 

@@ -26,10 +26,10 @@ tags:
 - JJ Hoover
 - Ken Giles
 dogebets:
-link: https://dl.dropboxusercontent.com/u/89720649/2020allstars-s3e19.mp3
+link: https://2020allstars.pmia.de/2020allstars-s3e19.mp3
 length: 14445911
 runtime: '30:05'
-opus: https://dl.dropboxusercontent.com/u/89720649/2020allstars-s3e19.opus
+opus: https://2020allstars.pmia.de/2020allstars-s3e19.opus
 ---
 We're working our way back to form.  We've got about 30 minutes of goodness for you this week.  We chat about keeper league values and specifically, selling stud pitchers for youthful bats.  Todd tends to side with the bats and I say throw something against the wall and see what happens.  The other trade pieces to offer are the once-young studs that are beginning to fade (i.e. Evan Longoria and Jay Bruce).  Really interesting to hear how our opinions differ on trading in general.  Todd tends to discount pitching and older hitters, while I conjecture that you might as well offer the deal.  What's the worst that can happen?  
 

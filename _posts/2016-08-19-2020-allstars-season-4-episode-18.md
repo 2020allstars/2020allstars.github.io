@@ -21,7 +21,7 @@ tags:
   - George Springer
   - Alex Gordon
 dogebets:
-link: https://dl.dropboxusercontent.com/u/89720649/2020allstars-s4e18.mp3
+link: https://2020allstars.pmia.de/2020allstars-s4e18.mp3
 length: 23398480
 runtime: '48:44'
 opus: 

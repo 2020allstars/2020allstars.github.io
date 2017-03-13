@@ -6,10 +6,10 @@ episode: 13
 date: '2015-05-24T12:00:00+00:00'
 tags:
 dogebets:
-link: https://dl.dropboxusercontent.com/u/89720649/2020allstars-s3e13.mp3
+link: https://2020allstars.pmia.de/2020allstars-s3e13.mp3
 length: 21375075
 runtime: '44:31'
-opus: https://dl.dropboxusercontent.com/u/89720649/2020allstars-s3e13.opus
+opus: https://2020allstars.pmia.de/2020allstars-s3e13.opus
 ---
 I'm not going to sugarcoat this one.  We slapped this episode together pretty quickly.  I'm heading off to Israel in 4 hours, so apologies for the curtness.  However, we still have 45 minutes of podcasting goodness for you.  Enjoy!  
 

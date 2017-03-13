@@ -12,7 +12,7 @@ tags:
 - kennys vargas
 - Closerpocalypse
 tumblr_url: http://2020allstars.tumblr.com/post/96167439715/2020-allstars-season-2-episode-22
-link: https://dl.dropboxusercontent.com/u/89720649/2020%20All%20Stars%20-%2020140828%20-%20Season%202%20Episode%2022%20%2837%29%20-%20Final.mp3
+link: https://2020allstars.pmia.de/2020%20All%20Stars%20-%2020140828%20-%20Season%202%20Episode%2022%20%2837%29%20-%20Final.mp3
 length: 32019170
 ---
 He is who we thought he was!  Jorge Soler!  He came.  He saw.  He popped a homer.  We discuss Jorge Soler’s comps.  We also talk about Kennys Vargas and find some really interesting comps for him.

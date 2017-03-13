@@ -26,10 +26,10 @@ tags:
 - Kevin Jepsen
 - Brad Boxberger
 dogebets:
-link: https://dl.dropboxusercontent.com/u/89720649/2020allstars-s3e14.mp3
+link: https://2020allstars.pmia.de/2020allstars-s3e14.mp3
 length: 21088745
 runtime: '43:56'
-opus: https://dl.dropboxusercontent.com/u/89720649/2020allstars-s3e14.opus
+opus: https://2020allstars.pmia.de/2020allstars-s3e14.opus
 ---
 So I, David, was in Israel last week, so we missed a week.  Deep-league discussion?  It gets no deeper than this.  Pat Venditte!  Switch pitcher for the Oakland Athletics.  Is he fantasy relevant?  Not really.  But is it awesome that he can pitch from both sides?  You need to listen to find out.
 

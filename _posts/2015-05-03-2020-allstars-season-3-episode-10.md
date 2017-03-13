@@ -23,10 +23,10 @@ tags:
 - Dustin Pedroia
 - Mookie Betts
 dogebets:
-link: https://dl.dropboxusercontent.com/u/89720649/2020allstars-s3e10.mp3
+link: https://2020allstars.pmia.de/2020allstars-s3e10.mp3
 length: 17836424
 runtime: '37:09'
-opus: https://dl.dropboxusercontent.com/u/89720649/2020allstars-s3e10.opus
+opus: https://2020allstars.pmia.de/2020allstars-s3e10.opus
 ---
 We have a quick pod for you this week.  There was a lot of prospect news to get through.  We chat about what we think about these young guys for this year and the future.  We also discuss hot teams.  What are we to think of the Astros?  We get into that and let you know what to expect.  Next the discussion meanders into cheap power outfielders.  Khris vs. Chris.  Davis vs. Young.  I can't quit Khris Davis, but Todd loves Mr. Young.  We end with our weekly love for Devon Travis.  We are seriously considering renaming the podcast in honor of this guy.  ROY seems in the bag, but can he be a top 5 2B?!?!  We are drinking the Koolaid.
 

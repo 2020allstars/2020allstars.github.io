@@ -25,10 +25,10 @@ tags:
 - James Paxton
 dogebets:
 - Kris Bryant (35 homeruns)
-link: https://dl.dropboxusercontent.com/u/89720649/2020allstars-s3e5.mp3
+link: https://2020allstars.pmia.de/2020allstars-s3e5.mp3
 length: 30339421
 runtime: '48:34'
-opus: https://dl.dropboxusercontent.com/u/89720649/2020allstars-s3e5.opus
+opus: https://2020allstars.pmia.de/2020allstars-s3e5.opus
 ---
 Hi everyone, we have a great episode for you.  We put our two cents into the Kris Bryant discussion.  Bottomline, I love him and Todd has more tempered expectations.  The world knows about Bryant, but how do you take advantage of this?  We suggest some names that you could offer him for if you have already drafted.  Buy the rumor, sell the hype.  
 

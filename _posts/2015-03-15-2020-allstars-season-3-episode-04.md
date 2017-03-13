@@ -24,10 +24,10 @@ tags:
 - Dee Gordon
 dogebets:
 - Brennan Boesch (top 300 player)
-link: https://dl.dropboxusercontent.com/u/89720649/2020allstars-s3e4.mp3
+link: https://2020allstars.pmia.de/2020allstars-s3e4.mp3
 length: 25789540
 runtime: '42:40'
-opus: https://dl.dropboxusercontent.com/u/89720649/2020allstars-s3e4.opus
+opus: https://2020allstars.pmia.de/2020allstars-s3e4.opus
 ---
 The technical difficulties episode.  You came for fantasy baseball chatter, but you're staying for the paella.  We begin this podcast with a mini-food segment about everyone's favorite Spanish rice dish.  Then we gush over how good Kris Bryant is and where he might go in your dynasty league's draft.  Next we answer the following questions:
 

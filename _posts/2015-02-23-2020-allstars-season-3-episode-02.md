@@ -23,7 +23,7 @@ tags:
 - Jarrod Dyson
 dogebets:
 - Billy Butler vs James Loney (homers)
-link: https://dl.dropboxusercontent.com/u/89720649/2020%20All%20Stars%20-%2020150223%20-%20Season%203%20Episode%2002%20%2843%29%20-%20Final.mp3
+link: https://2020allstars.pmia.de/2020%20All%20Stars%20-%2020150223%20-%20Season%203%20Episode%2002%20%2843%29%20-%20Final.mp3
 length: 30239750
 ---
 Episode 2 of the 2015 season... honestly, not much to talk about.  But we somehow filled up 45 minutes with nonsense and misinformation.  There was even talk about BJ Upton's name change.  Closerpocalypse is upon us once again.  We discuss a lot of Dodger news including the "big" injury to Kenley Jansen.  We are relatively worried about this injury.  Basically, we just don't want to have to pay for Jansen when we could get someone cheaper in a later round.  We have no idea who the replacement is but if you need a name, we went with Brandon League.  Also in Dodger land, we discuss Greinke's oiling his elbow.

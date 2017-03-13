@@ -10,10 +10,10 @@ tags:
   - deep league
   - 2020 All-Stars
 dogebets:
-link: https://dl.dropboxusercontent.com/u/89720649/2020allstars-s4e12.mp3
+link: https://2020allstars.pmia.de/2020allstars-s4e12.mp3
 length: 14386234
 runtime: '29:58'
-opus: https://dl.dropboxusercontent.com/u/89720649/2020allstars-s4e12.opus
+opus: https://2020allstars.pmia.de/2020allstars-s4e12.opus
 ---
 No description... running to the airport :-)  Viel Spaß!  
 

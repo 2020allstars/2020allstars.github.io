@@ -24,10 +24,10 @@ tags:
   - Andre Ethier
   - Trayce Thompson
 dogebets:
-link: https://dl.dropboxusercontent.com/u/89720649/2020allstars-s4e10.mp3
+link: https://2020allstars.pmia.de/2020allstars-s4e10.mp3
 length: 20903059
 runtime: '43:32'
-opus: https://dl.dropboxusercontent.com/u/89720649/2020allstars-s4e10.opus
+opus: https://2020allstars.pmia.de/2020allstars-s4e10.opus
 ---
 Kershaw or Strasburg?  I try to make a case for Stephen, but it pretty much all hinges on wins.  It's not really a defensible position, but it's something to chat about.  But speaking of super prospects, JULIO!!!!!  JULIO!!!! JULIO!  Julio Urias made his debut and it was rough.  He got rocked, but this looks like it presents a buying opportunity.  The other super prospect we talk about is Giolito.  We're predicting a September Callup.
 

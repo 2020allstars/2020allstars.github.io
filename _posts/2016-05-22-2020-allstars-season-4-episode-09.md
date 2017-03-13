@@ -34,10 +34,10 @@ tags:
   - Bryce Harper
   - Jonathon Schoop
 dogebets:
-link: https://dl.dropboxusercontent.com/u/89720649/2020allstars-s4e09.mp3
+link: https://2020allstars.pmia.de/2020allstars-s4e09.mp3
 length: 18538873
 runtime: '38:37'
-opus: https://dl.dropboxusercontent.com/u/89720649/2020allstars-s4e09.opus
+opus: https://2020allstars.pmia.de/2020allstars-s4e09.opus
 ---
 We had a relatively quick podcast this week because Todd had to get to a golf lesson to practice for his upcoming round at the famed Pebble Beach.  We quickly go around the league and discuss some hot players, some not, and finally return to our bread and butter with rookies who could make an impact before the AS break.  The young names that we talk about are Alex Bregman, Jameson Tailon, and Trayce Thompson.
 

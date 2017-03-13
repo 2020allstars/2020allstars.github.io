@@ -13,7 +13,7 @@ tags:
 - joakin soria
 - Trevor hoffman
 tumblr_url: http://2020allstars.tumblr.com/post/92724987050/2020-allstars-season-2-episode-17
-link: https://dl.dropboxusercontent.com/u/89720649/2020%20All%20Stars%20-%2020140724%20-%20Season%202%20Episode%2017%20%2832%29%20-%20Final.mp3
+link: https://2020allstars.pmia.de/2020%20All%20Stars%20-%2020140724%20-%20Season%202%20Episode%2017%20%2832%29%20-%20Final.mp3
 length: 28965609
 ---
 We begin with Closerpocalypse 2014.  Although things are not so bad this time.  There were a couple trades so we discuss the fantasy implications of those.  Who are our second half studs?  We like a couple of guys in new situations, some guys in old situations, some guys we don’t agree on.  A little bit of everything.

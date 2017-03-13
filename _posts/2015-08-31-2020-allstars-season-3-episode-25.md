@@ -32,10 +32,10 @@ tags:
   - Sean Doolittle
 dogebets:
   - Miguel Sano (o/u 36.5 hrs in 2016)
-link: https://dl.dropboxusercontent.com/u/89720649/2020allstars-s3e25.mp3
+link: https://2020allstars.pmia.de/2020allstars-s3e25.mp3
 length: 20615225
 runtime: '42:56'
-opus: https://dl.dropboxusercontent.com/u/89720649/2020allstars-s3e25.opus
+opus: https://2020allstars.pmia.de/2020allstars-s3e25.opus
 ---
 The future is now!  We are coming up on September.  What does this mean?  If you're in a holds league then it's time to make your big run!  But before the baseball comes the food, thus we needed to discuss grilling in Germany.  Todd is disgusted that we grilled without a Weber Grill.  Jamacian style cooking folks.  Want a YouTube video?  Sure... what?!?  It doesn't exist.  I just spent 20 minutes looking through youtube videos and couldn't find this method.  Basically, you use a super high heat and over-marinate the chicken.  Especially important is a ton of herbs.  Then you stack all the chicken (skin on!) into the middle of the grill, this is really counter-intuitive to every grill rule you've ever learn, but trust me.  The marinade/herb mixture drips into the fire creating a ton of smoke.  The chicken pieces at the bottom will get pretty dark pretty quickly.  The key is to rotate the chicken every couple of minutes and put the ones on the top to the bottom to char.  The ones at the top continue to cook indirectly from the heat coming off the pieces on the bottom.  If done correctly, you'll end up with chicken that has a nice black char, but still is moist inside.  
 

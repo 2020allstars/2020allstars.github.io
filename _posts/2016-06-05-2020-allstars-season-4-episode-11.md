@@ -36,10 +36,10 @@ tags:
   - Marwin Gonzalez
   - Alex Reed
 dogebets:
-link: https://dl.dropboxusercontent.com/u/89720649/2020allstars-s4e11.mp3
+link: https://2020allstars.pmia.de/2020allstars-s4e11.mp3
 length: 23227731
 runtime: '48:23'
-opus: https://dl.dropboxusercontent.com/u/89720649/2020allstars-s4e11.opus
+opus: https://2020allstars.pmia.de/2020allstars-s4e11.opus
 ---
 Bad puns kicks off our discussion.  James Shields got traded to the White Sox.  The only thing that it really tells us is that the White Sox are in it to win it.  Perhaps they'll bring up Tim Anderson to replace Jimmy Rollins at SS, but the prospects in the deal are lotto tickets.  Perhaps in 2020 we'll be talking about Fernando Tatis Jr, but he's certainly not a sure thing.  
 

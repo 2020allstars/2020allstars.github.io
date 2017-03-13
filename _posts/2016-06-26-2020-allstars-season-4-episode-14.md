@@ -10,10 +10,10 @@ tags:
   - deep league
   - 2020 All-Stars
 dogebets:
-link: https://dl.dropboxusercontent.com/u/89720649/2020allstars-s4e14.mp3
+link: https://2020allstars.pmia.de/2020allstars-s4e14.mp3
 length: 13470304
 runtime: '28:03'
-opus: https://dl.dropboxusercontent.com/u/89720649/2020allstars-s4e14.opus
+opus: https://2020allstars.pmia.de/2020allstars-s4e14.opus
 ---
 So we learned something this week.  I have turf toe.  How did I learn this?  Because Jose Bautista has turf toe.  Baseball, what would we do without you?  
 

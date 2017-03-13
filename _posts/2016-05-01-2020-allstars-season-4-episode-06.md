@@ -28,10 +28,10 @@ tags:
   - Shelby Miller
   - Yu Darvish
 dogebets:
-link: https://dl.dropboxusercontent.com/u/89720649/2020allstars-s4e06.mp3
+link: https://2020allstars.pmia.de/2020allstars-s4e06.mp3
 length: 20689040
 runtime: '43:06'
-opus: https://dl.dropboxusercontent.com/u/89720649/2020allstars-s4e06.opus
+opus: https://2020allstars.pmia.de/2020allstars-s4e06.opus
 ---
 The big news of the week is Dee Gordon's 80 day suspension for PEDs.  We lament about this because he's the third keeper that we've lost for a significant chuck of the season already.  We do a decent job of holding back the tears, but this was probably the nail in the of our 2016 fantasy season in our big league.  What does that mean for you?  Well, we might start selling out for prospects so the podcast might lean that way as well.  Stay tuned.  
 
