@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '2020 All-Stars (s1e01) - And we're back!'
+title: "2020 All-Stars (s5e01) - And we're back!"
 season: 5
 episode: 1
 date: '2017-04-11T12:00:00+00:00'
