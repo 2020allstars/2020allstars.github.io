@@ -9,6 +9,7 @@ tags:
   - MLB
   - deep league
   - 2020 All-Stars
+  - David Price
 dogebets:
 link: https://2020allstars.pmia.de/2020allstars-s5e14.mp3
 length: 10499646
