@@ -15,7 +15,7 @@ description:      "A twisted journey into the heart of deep-league fantasy baseb
 url:              http://2020allstars.da3.net
 podcastext:       '/podcast.xml'
 podcastfeedurl:   http://feeds.feedburner.com/2020allstars
-baseurl:          '/'
+baseurl:          'http://2020allstars.da3.net/'
 paginate:         10
 itunes:
   keywords:         "2020,Allstars,MLB,Fantasy,Baseball,MILB,deep-league,keeper-league,NL-Only,AL-Only,closerpocalypse"
